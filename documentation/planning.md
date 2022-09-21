@@ -53,6 +53,7 @@ Initially we'll just have a few elements that will be useful:
     * Learning (Pottery)
 * Time(s) of day for Activity
 * Price of Activity
+
 # API integrations
 Google Maps API to find places for the relevant keywords in a given city or location (within x amount of miles)
 I do *not* want to use location data from the browser for this, I instead would like the user to input desired location.
