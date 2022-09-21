@@ -1,5 +1,5 @@
 # Django Date App
-[toc]
+
 ## Terminal Commands for Venv (Windows only)
 python -m venv venv
 . venv/Scripts/activate
